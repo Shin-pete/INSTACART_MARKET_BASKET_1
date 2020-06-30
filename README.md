@@ -2,7 +2,12 @@
 ![Fraud_img](https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_standard/public/Instacart-Personal_Shopper-Bag.png?itok=LIpaSQ2n)
 
 ## Notebook
-[My Notebook](https://nbviewer.jupyter.org/github/ShinPete/instacart_basket_reorder_preds/blob/master/Instacart_Reorder_preds.ipynb)
+[ML Model Predicting](https://nbviewer.jupyter.org/github/ShinPete/instacart_basket_reorder_preds/blob/master/Instacart_Reorder_preds.ipynb)
+
+[Complimentary Basket Analysis](https://nbviewer.jupyter.org/github/ShinPete/instacart_basket_reorder_preds/blob/master/Instacart_Reorder_preds.ipynb)
+
+[Data Source](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+
 
 ## Abstract:
 We will be examining the Instacart Database and trying to acquire some valuable business insights out of this. And we will be trying answer three different questions relating to this database.
