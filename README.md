@@ -4,7 +4,7 @@
 ## Notebook
 [ML Model Predicting](https://github.com/Shin-pete/INSTACART_MARKET_BASKET_1/blob/master/Instacart_Reorder_predictions_1.0.ipynb)
 
-[Complimentary Basket Analysis](https://nbviewer.jupyter.org/github/ShinPete/instacart_basket_reorder_preds/blob/master/Instacart_Reorder_preds.ipynb)
+[Complimentary Basket Analysis](https://nbviewer.jupyter.org/github/Shin-pete/INSTACART_MARKET_BASKET_1/blob/master/complimentary_products.ipynb)
 
 [Data Source](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
 
