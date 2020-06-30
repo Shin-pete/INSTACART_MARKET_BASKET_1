@@ -34,4 +34,4 @@ We produce a model that helps us predict whether a certain good will be reordere
 ### N — Interpreting our data:
 Interpreting our data: Our model has a 71% accuracy at predicting whether someone will or will not reorder a product. Our recommendation system showed that whenever one is purchasing any kind of food product, it is good to suggest to the consumer to purchase fresh fruit. Additionally, we got insights about very specific goods like what to offer when your customer purchases red wine (“How about some white wine?”)
 
-Conclusion: When looking for goods to recommend in the very same basket, complimentary goods are a great choice. 
+Conclusion: When looking for inventory to recommend in the very same basket, complimentary goods are a great choice. 
