@@ -2,7 +2,7 @@
 ![Fraud_img](https://www.supermarketnews.com/sites/supermarketnews.com/files/styles/article_featured_standard/public/Instacart-Personal_Shopper-Bag.png?itok=LIpaSQ2n)
 
 ## Notebook
-[ML Model Predicting](https://nbviewer.jupyter.org/github/ShinPete/instacart_basket_reorder_preds/blob/master/Instacart_Reorder_predictionss.ipynb)
+[ML Model Predicting](https://nbviewer.jupyter.org/github/ShinPete/INSTACART_MARKET_BASKET_1/blob/master/Instacart_Reorder_predictions.ipynb)
 
 [Complimentary Basket Analysis](https://nbviewer.jupyter.org/github/ShinPete/instacart_basket_reorder_preds/blob/master/Instacart_Reorder_preds.ipynb)
 
