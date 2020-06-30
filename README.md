@@ -13,7 +13,7 @@
 We will be examining the instacart database and trying to acquire some valuable business insights out of this. And we will be trying answer three different questions relating to this database.
 
 ### Question 1: 
-What kind of products are purchased and reordered the most? The importance of this question is that we get a sense of what the most popular products are as well as maybe gaining an understanding of the multiple skews that are at play. Furthermore, we can decipher which departments are individually doing the best and we can opt to direct more support to flagging departments as a result.
+What kind of products are purchased and reordered the most? The importance of this question is that we get a sense of what the most popular products are as well as gaining an understanding of the multiple skews that are at play. Furthermore, we can decipher which departments are individually doing the best and we can opt to direct more support to flagging departments as a result.
 
 ### Question 2: 
 What factors influence one's decision to reorder a good and can we make a model that accurately predicts whether a good will be reordered? This is important because with this knowledge we can prepare our inventory based on the likelihood of a product being reordered in the future. Ideally we can shift our demand expectations to be closer in line with reality in general with the implementation of this.
